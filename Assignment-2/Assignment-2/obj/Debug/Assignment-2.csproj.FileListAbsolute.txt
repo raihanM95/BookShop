@@ -1,9 +1,0 @@
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe.config
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\bin\Debug\Assignment-2.pdb
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csprojResolveAssemblyReference.cache
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment_2.BookShop.resources
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment_2.Properties.Resources.resources
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.GenerateResource.Cache
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment-2.exe
-E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\obj\Debug\Assignment-2.pdb

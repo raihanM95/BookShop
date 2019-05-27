@@ -1,0 +1,22 @@
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\bin\Debug\BookShop.exe.config
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment_2.Calculator.resources
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment_2.PersonalInformation.resources
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.Properties.Resources.resources
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.csproj.GenerateResource.Cache
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\bin\Debug\BookShop.exe
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\bin\Debug\BookShop.pdb
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.BookShopForm.resources
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.exe
+E:\Important File\Programs\C#\BITM\Assignment-2\Assignment-2\Assignment-2\obj\Debug\BookShop.pdb
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\bin\Debug\BookShop.exe.config
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.exe
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.pdb
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\bin\Debug\BookShop.exe
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\bin\Debug\BookShop.pdb
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.BookShopForm.resources
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\Assignment_2.Calculator.resources
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\Assignment_2.PersonalInformation.resources
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+E:\Important File\Programs\C#\BITM\Assignment-2, 3 & 4\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
